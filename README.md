@@ -1,0 +1,1 @@
+Job scheduling is the process of allocating resources and prioritizing tasks efficiently to optimize performance, minimize delays, and meet constraints in computational or operational environments. It ensures timely and balanced execution of jobs based on predefined criteria such as deadlines, resource availability, or priority levels.
